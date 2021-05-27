@@ -1,4 +1,4 @@
-SelectionSort Sequêncial:
+SeleectionSort Sequêncial:
 
 Tempo: 0.213
 Result: Sorted
