@@ -31,10 +31,10 @@ table = PrettyTable()
 for key, value in results_map.items():
   table.add_column(key,[value])
 
-file_object = open('resultado.txt', 'a')
+# file_object = open('resultado.txt', 'a')
 
-file_object.write('\n')
+# file_object.write('\n')
 
-file_object.write(str(table))
+# file_object.write(str(table))
 
 print(table)
