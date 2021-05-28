@@ -1,0 +1,122 @@
+SeleectionSort Sequêncial:
+
+Tempo: 0.213
+Result: Sorted
+Tempo: 0.215
+Result: Sorted
+Tempo: 0.214
+Result: Sorted
+Tempo: 0.214
+Result: Sorted
+Tempo: 0.210
+Result: Sorted
+Tempo: 0.215
+Result: Sorted
+Tempo: 0.217
+Result: Sorted
+Tempo: 0.210
+Result: Sorted
+Tempo: 0.212
+Result: Sorted
+Tempo: 0.211
+Result: Sorted
+
+SelectionSort paralelo 2 threads:
+
+Tempo: 0.217
+Result: Sorted
+Tempo: 0.214
+Result: Sorted
+Tempo: 0.211
+Result: Sorted
+Tempo: 0.214
+Result: Sorted
+Tempo: 0.214
+Result: Sorted
+Tempo: 0.211
+Result: Sorted
+Tempo: 0.211
+Result: Sorted
+Tempo: 0.215
+Result: Sorted
+Tempo: 0.212
+Result: Sorted
+Tempo: 0.215
+Result: Sorted
+Tempo: 0.217
+Result: Sorted
+
+SelectionSort 4 threads
+
+Tempo: 0.092
+Result: Sorted
+Tempo: 0.089
+Result: Sorted
+Tempo: 0.096
+Result: Sorted
+Tempo: 0.089
+Result: Sorted
+Tempo: 0.095
+Result: Sorted
+Tempo: 0.097
+Result: Sorted
+Tempo: 0.090
+Result: Sorted
+Tempo: 0.092
+Result: Sorted
+Tempo: 0.090
+Result: Sorted
+Tempo: 0.091
+Result: Sorted
+Tempo: 0.092
+Result: Sorted
+
+SelectionSort 4 threads
+
+Tempo: 0.093
+Result: Sorted
+Tempo: 0.100
+Result: Sorted
+Tempo: 0.100
+Result: Sorted
+Tempo: 0.098
+Result: Sorted
+Tempo: 0.103
+Result: Sorted
+Tempo: 0.111
+Result: Sorted
+Tempo: 0.096
+Result: Sorted
+Tempo: 0.100
+Result: Sorted
+Tempo: 0.097
+Result: Sorted
+Tempo: 0.099
+Result: Sorted
+Tempo: 0.095
+Result: Sorted
+Tempo: 0.096
+Result: Sorted
+
+SelectionSort 8 threads
+
+Tempo: 0.102
+Result: Sorted
+Tempo: 0.094
+Result: Sorted
+Tempo: 0.096
+Result: Sorted
+Tempo: 0.098
+Result: Sorted
+Tempo: 0.094
+Result: Sorted
+Tempo: 0.112
+Result: Sorted
+Tempo: 0.097
+Result: Sorted
+Tempo: 0.099
+Result: Sorted
+Tempo: 0.098
+Result: Sorted
+Tempo: 0.098
+Result: Sorted
