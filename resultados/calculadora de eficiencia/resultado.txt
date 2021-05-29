@@ -1,0 +1,51 @@
+MergeSort
+SpeedUp do MergeSort com 2 threads: 1.679.
+O ganho foi de 22.947%.
+A eficiência obtida foi de 83.946%.
+
+SpeedUp do MergeSort com 4 threads: 1.720.
+O ganho foi de 38.078%.
+A eficiência obtida foi de 42.991%.
+
+SpeedUp do MergeSort com 8 threads: 1.720.
+O ganho foi de 47.435%.
+A eficiência obtida foi de 21.495%.
+
+
+------------------
+
+SelectionSort
+SpeedUp do SelectionSort com 2 threads: 0.997.
+O ganho foi de 33.399%.
+A eficiência obtida foi de 49.853%.
+
+SpeedUp do SelectionSort com 4 threads: 2.153.
+O ganho foi de 31.217%.
+A eficiência obtida foi de 53.813%.
+
+SpeedUp do SelectionSort com 8 threads: 2.157.
+O ganho foi de 38.346%.
+A eficiência obtida foi de 26.961%.
+
+
+------------------
+
+ShellSort
+SpeedUp do ShellSort com 2 threads: 1.749.
+O ganho foi de 22.230%.
+A eficiência obtida foi de 87.461%.
+
+SpeedUp do ShellSort com 4 threads: 2.830.
+O ganho foi de 24.351%.
+A eficiência obtida foi de 70.750%.
+
+SpeedUp do ShellSort com 8 threads: 3.541.
+O ganho foi de 23.870%.
+A eficiência obtida foi de 44.258%.
+
+SpeedUp do ShellSort com 12 threads: 3.727.
+O ganho foi de 24.056%.
+A eficiência obtida foi de 31.060%.
+
+
+------------------
