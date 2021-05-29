@@ -12,13 +12,13 @@ def calcularSpeedUp(algoritmo, sequencial, dicionarioParalelo):
     print(algoritmo)
     for i in dicionarioParalelo:
         speedUp = sequencial / dicionarioParalelo[i]
-        print(f'SpeedUp do {algoritmo} com {i} threads: {speedUp}.')
+        print(f'SpeedUp do {algoritmo} com {i} threads: {speedUp:.3f}.')
 
         ganho = (sequencial + dicionarioParalelo[i]) / (sequencial + (dicionarioParalelo[i] / i))
-        print(f'O ganho foi de {(ganho-1):.0%}.')
+        print(f'O ganho foi de {(ganho-1):.3%}.')
 
         eficiencia = speedUp / i
-        print(f'A eficiência obtida foi de {eficiencia:.0%}.')
+        print(f'A eficiência obtida foi de {eficiencia:.3%}.')
 
         print()
 
